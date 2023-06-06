@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
 @TestInstance(TestInstance. Lifecycle.PER_CLASS)
-public class loginTest {
+public class loginTests {
     private  WebDriver driver;
     ChromeOptions options = new ChromeOptions();
 
